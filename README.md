@@ -1,6 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Nirmal Hettiarachchi</h1>
-<h3 align="center">Undergraduate at UCSC | Top Rated Plus Freelancer at Upwork</h2> 
-<img align="right" alt="Coding" width="450" height="175" src="https://www.therwandan.com/wp-content/uploads/2021/07/programming.jpg">
+<h1>Hi there 👋, I'm Nirmal Hettiarachchi</h1>
+<h3>Undergraduate at UCSC | Top Rated Plus Freelancer at Upwork</h2> 
 
 <h4 align="left">How to connect with me:</h3>
   <a href="https://www.linkedin.com/in/nirmal-hettiarachchi/" target="blank">
@@ -33,7 +32,10 @@
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirmalHettiarachchi&show_icons=true&locale=en&layout=compact">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NirmalHettiarachchi">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirmalHettiarachchi">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalHettiarachchi&">
+
+
+
 
 
