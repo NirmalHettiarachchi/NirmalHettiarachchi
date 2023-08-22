@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Nirmal Hettiarachchi</h1>
-<h3>Undergraduate at UCSC | Top Rated Plus Freelancer at Upwork</h2> 
+<h3>Undergraduate at UCSC | Top Rated Plus Freelancer on Upwork</h2> 
 
 <h4 align="left">How to connect with me:</h3>
   <a href="https://www.linkedin.com/in/nirmal-hettiarachchi/" target="blank">
