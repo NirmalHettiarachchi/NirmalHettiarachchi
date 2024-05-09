@@ -11,6 +11,9 @@
   <a href="https://www.facebook.com/nirmal.hettiarachchi.758/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nirmal.hettiarachchi.758" height="30" width="30" />
   </a>
+  <a href="https://www.upwork.com/freelancers/~01a1386050812b9a61" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="" height="30" width="30" />
+  </a>
 
 <h4 align="left">Languages and Tools:</h3>
 <p align="left">  
