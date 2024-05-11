@@ -1,8 +1,10 @@
 <h1>Hi there 👋, I'm Nirmal Hettiarachchi</h1>
 <h3>Undergraduate at UCSC | Top Rated Plus Freelancer on Upwork</h2> 
 
-### 🌐 Socials
+### How to connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal-hettiarachchi)
+[![Upwork](https://img.shields.io/badge/Upwork-%230077B10.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a1386050812b9a61)
+
 
 <h4 align="left">How to connect with me:</h3>
   <a href="https://www.linkedin.com/in/nirmal-hettiarachchi/" target="blank">
