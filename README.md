@@ -8,6 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/nirmal.hettiarachchi.758)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nirmalhettiarac1)
 
+<!--
 <h4 align="left">How to connect with me:</h3>
   <a href="https://www.linkedin.com/in/nirmal-hettiarachchi/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nirmal-hettiarachchi" height="30" width="30"/>
@@ -21,6 +22,7 @@
   <a href="https://www.upwork.com/freelancers/~01a1386050812b9a61" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="" height="30" width="30" />
   </a>
+-->
 
 <h4 align="left">Languages and Tools:</h3>
 <p align="left">  
