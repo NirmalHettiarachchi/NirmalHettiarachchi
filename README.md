@@ -1,5 +1,3 @@
-# Nirmal Hettiarachchi
-
 ```text
                                                    NirmalHettiarachchi
                                                    -------------------------------------------------------
